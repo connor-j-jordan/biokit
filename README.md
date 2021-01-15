@@ -1,2 +1,3 @@
-# biokit
-BioPython functionality from scratch!
+# BioKit - BioPython from Scratch
+---
+
